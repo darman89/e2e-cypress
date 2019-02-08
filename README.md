@@ -5,3 +5,5 @@ En el archivo de pruebas *simple_spec.js* se pueden configurar algunas variables
 
 - correo
 - password
+
+![alt text](https://github.com/darman89/e2e-cypress/blob/master/cypress.png "Pruebas E2E")
